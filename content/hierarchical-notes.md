@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hierarchical Notes","created":"2025-08-06T08:27:41.996+05:30","modified":"2025-08-06T08:30:03.738+05:30","cssclasses":""}
+{"publish":true,"title":"Hierarchical Notes","created":"2025-08-06T05:57:41.996+03:00","modified":"2025-08-06T06:00:03.738+03:00","cssclasses":""}
 ---
 
 ## When to use?
